@@ -2,10 +2,11 @@
      Coloque sua imagem em assets/banner.png e remova os comentários das linhas abaixo.
 -->
 
+<!--
 <p align="center">
-  <img src="assets.jpg" alt="Banner de Giovanna Ribeiro" width="100%">
+  <img src="./assets/banner.png" alt="Banner de Giovanna Ribeiro" width="100%">
 </p>
-
+-->
 
 <h1 align="center">Olá, eu sou a Giovanna Ribeiro 👋</h1>
 
