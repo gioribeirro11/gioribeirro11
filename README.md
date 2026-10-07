@@ -8,6 +8,7 @@
 </p>
 -->
 
+
 <h1 align="center">Olá, eu sou a Giovanna Ribeiro 👋</h1>
 
 <p align="center">
@@ -76,7 +77,7 @@ Protótipo acadêmico de loja virtual de tênis, com páginas em HTML e CSS e um
 </p>
 -->
 
-## Demonstração em GIF
+<!-- ## Demonstração em GIF
 
 <!-- GIF:
      Coloque sua demonstração animada em assets/demo.gif e remova os comentários das linhas abaixo.
@@ -101,6 +102,12 @@ Protótipo acadêmico de loja virtual de tênis, com páginas em HTML e CSS e um
     alt="Linguagens mais usadas"
   >
 </p>
+<picture>
+     <source medio="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gioribeirro11/gioribeirro11/output/github-contribution-grid-snake-dark.svg">
+     <source medio="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gioribeirro11/gioribeirro11/output/github-contribution-grid-snake.svg">
+     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gioribeirro11/gioribeirro11/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
 
 ## Contato
 
