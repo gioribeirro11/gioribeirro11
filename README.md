@@ -135,11 +135,9 @@ Protótipo acadêmico de loja virtual de tênis, com páginas em HTML e CSS e um
 -->
 
 
-## Contato
-
+<!--## Contato
 - GitHub: [@gioribeirro11](https://github.com/gioribeirro11)
-
-<!-- Opcional: adicione seu LinkedIn ou e-mail abaixo.
+ Opcional: adicione seu LinkedIn ou e-mail abaixo.
 - LinkedIn: [seu perfil](https://www.linkedin.com/in/seu-usuario/)
 - E-mail: [seu-email](mailto:seu-email)
 -->
