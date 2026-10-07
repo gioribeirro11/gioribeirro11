@@ -2,11 +2,11 @@
      Coloque sua imagem em assets/banner.png e remova os comentários das linhas abaixo.
 -->
 
-<!--
+
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner de Giovanna Ribeiro" width="100%">
+  <img src="banner.png" alt="Banner de Giovanna Ribeiro" width="30%">
 </p>
--->
+
 
 
 <h1 align="center">Olá, eu sou a Gioh </h1>
@@ -138,3 +138,8 @@ Protótipo acadêmico de loja virtual de tênis, com páginas em HTML e CSS e um
 - LinkedIn: [seu perfil](https://www.linkedin.com/in/seu-usuario/)
 - E-mail: [seu-email](mailto:seu-email)
 -->
+
+
+<p align="center">
+  <img src="banner.png" alt="Banner de Giovanna Ribeiro" width="30%">
+</p>
