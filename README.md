@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="banner.png" alt="Banner de Giovanna Ribeiro" width="30%">
+  <img src="banner.png" alt="Banner de Giovanna Ribeiro" width="20%">
 </p>
 
 
@@ -141,5 +141,5 @@ Protótipo acadêmico de loja virtual de tênis, com páginas em HTML e CSS e um
 
 
 <p align="center">
-  <img src="banner.png" alt="Banner de Giovanna Ribeiro" width="30%">
+  <img src="assets.png" alt="Banner de Giovanna Ribeiro" width="20%">
 </p>
