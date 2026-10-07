@@ -9,7 +9,7 @@
 -->
 
 
-<h1 align="center">Olá, eu sou a Giovanna Ribeiro 👋</h1>
+<h1 align="center">Olá, eu sou a Gioh </h1>
 
 <p align="center">
   Estudante de Ciência da Computação • Desenvolvimento web • Acessibilidade digital
@@ -21,9 +21,6 @@
   </a>
   <img src="https://img.shields.io/badge/Localização-Brasil-009739?style=for-the-badge" alt="Brasil">
 </p>
-
----
-
 
 ## Tecnologias
 <div align="center" style="display: inline_block"><br>
