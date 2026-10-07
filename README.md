@@ -102,12 +102,23 @@ Protótipo acadêmico de loja virtual de tênis, com páginas em HTML e CSS e um
     alt="Linguagens mais usadas"
   >
 </p>
+
+<!-- Pacman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gioribeirro11/gioribeirro11/output/pac-dos-mens-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gioribeirro11/gioribeirro11a/output/pac-dos-mens-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gioribeirro11/gioribeirro11/output/pac-dos-mens-contribution-graph.svg">
+</picture>
+
+<!--
 <picture>
      <source medio="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gioribeirro11/gioribeirro11/output/github-contribution-grid-snake-dark.svg">
      <source medio="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gioribeirro11/gioribeirro11/output/github-contribution-grid-snake.svg">
      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gioribeirro11/gioribeirro11/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
+-->
+
 
 ## Contato
 
