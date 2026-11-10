@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/decor/lace-top.png" width="100%" alt="Ornamento de renda prateada">
+  <img src="Ornamento de renda prateada.png" width="100%" alt="Ornamento de renda prateada">
 </p>
 
 <table>
@@ -19,7 +19,7 @@
       </p>
     </td>
     <td width="32%" align="center" valign="middle">
-      <img src="assets/decor/knight.png" width="100%" alt="Cavaleira medieval em tons de prata">
+      <img src="Cavaleira medieval em tons de prata.png" width="100%" alt="Cavaleira medieval em tons de prata">
     </td>
   </tr>
 </table>
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/decor/sword.png" width="100%" alt="Espada medieval ornamental">
+  <img src="Espada medieval ornamental.png" width="100%" alt="Espada medieval ornamental">
 </p>
 
 ## ♜ Sobre mim
@@ -46,7 +46,7 @@ Gosto de aprender na prática, explorar ferramentas diferentes e transformar con
 - Automação, testes e qualidade de software.
 
 <p align="center">
-  <img src="assets/decor/unicorn.webp" width="35%" alt="Unicórnio ornamental em tons de prata">
+  <img src="Unicórnio ornamental em tons de prata.webp" width="35%" alt="Unicórnio ornamental em tons de prata">
 </p>
 
 ---
@@ -70,17 +70,17 @@ Gosto de aprender na prática, explorar ferramentas diferentes e transformar con
   <img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg" alt="Octave">
   <img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java">
   <img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="Figma">
-  <img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" alt="Django">
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" alt="Django">
   <img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" alt="Flutter">
   <img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg" alt="Dart">
 </div>
 
 <p align="center">
-  <img src="assets/decor/gauntlet.webp" width="105" alt="Manopla medieval">
+  <img src="Manopla medieval.webp" width="105" alt="Manopla medieval">
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/decor/goblet.png" width="85" alt="Cálice prateado">
+  <img src="Cálice prateado.png" width="85" alt="Cálice prateado">
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/decor/shield.webp" width="105" alt="Escudo medieval">
+  <img src="Escudo medieval.webp" width="105" alt="Escudo medieval">
 </p>
 
 ---
@@ -114,7 +114,7 @@ Protótipo acadêmico de loja virtual de tênis, com páginas em HTML e CSS e um
 </p>
 
 <p align="center">
-  <img src="assets/decor/medieval-detail.png" width="65%" alt="Detalhe ornamental medieval em tons de prata">
+  <img src="Detalhe ornamental medieval em tons de prata.png" width="65%" alt="Detalhe ornamental medieval em tons de prata">
 </p>
 
 ---
@@ -155,7 +155,7 @@ Protótipo acadêmico de loja virtual de tênis, com páginas em HTML e CSS e um
 </p>
 
 <p align="center">
-  <img src="assets/decor/sword.png" width="100%" alt="Espada medieval ornamental">
+  <img src="Espada medieval ornamental.png" width="100%" alt="Espada medieval ornamental">
 </p>
 
 <h3 align="center">༺ Obrigada pela visita! ༻</h3>
@@ -166,5 +166,5 @@ Protótipo acadêmico de loja virtual de tênis, com páginas em HTML e CSS e um
 </p>
 
 <p align="center">
-  <img src="assets/decor/lace-bottom.png" width="100%" alt="Ornamento de renda prateada">
+  <img src="Ornamento de renda prateadaa.png" width="100%" alt="Ornamento de renda prateada">
 </p>
