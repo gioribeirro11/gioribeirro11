@@ -93,54 +93,13 @@ Projetos acadêmicos e pessoais desenvolvidos durante minha trajetória de apren
 
 Aplicação para gestão de eventos educacionais, inscrições, presenças e relatórios de engajamento. Desenvolvida com Laravel e Bootstrap.
 
-<p align="center">
-  <img src="assets/engaja.png" width="82%" alt="Captura de tela do projeto Engaja">
-</p>
-
 ### 02. [Sistema de Agendamento de Consultas](https://github.com/gioribeirro11/Sistema-de-Agendamento-de-Clinica-Geral)
 
 Aplicação desktop em Python com Tkinter para agendar, consultar e cancelar consultas. Os dados são armazenados em um arquivo JSON.
 
-<p align="center">
-  <img src="assets/agendamento.png" width="82%" alt="Captura do sistema de agendamento">
-</p>
-
 ### 03. [Street Feet](https://github.com/gioribeirro11/Street-Feet)
 
 Protótipo acadêmico de loja virtual de tênis, com páginas em HTML e CSS e uma implementação inicial de cadastro e autenticação com PHP e MySQL.
-
-<p align="center">
-  <img src="assets/street-feet.png" width="82%" alt="Captura do projeto Street Feet">
-</p>
-
-<p align="center">
-  <img src="Detalhe ornamental medieval em tons de prata.png" width="65%" alt="Detalhe ornamental medieval em tons de prata">
-</p>
-
----
-
-## ♜ Estatísticas do GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=gioribeirro11&show_icons=true&theme=graywhite&hide_border=true&locale=pt-br"
-    height="165"
-    alt="Estatísticas do GitHub"
-  >
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioribeirro11&layout=compact&theme=graywhite&hide_border=true&locale=pt-br"
-    height="165"
-    alt="Linguagens mais usadas"
-  >
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=gioribeirro11&theme=default&hide_border=true"
-    height="165"
-    alt="Sequência de contribuições"
-  >
-</p>
 
 ---
 
