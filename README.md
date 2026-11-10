@@ -1,145 +1,164 @@
-<!-- BANNER PNG/JPG:
-     Coloque sua imagem em assets/banner.png e remova os comentários das linhas abaixo.
--->
-
-
 <p align="center">
-  <img src="banner.png" alt="Banner de Giovanna Ribeiro" width="20%">
+  <img src="./assets/decor/lace-top.png" width="100%" alt="Renda ornamental prateada">
 </p>
 
-
-
-<h1 align="center">. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.Olá, eu sou a Gioh. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁. </h1>
+<table>
+  <tr>
+    <td width="68%" valign="middle">
+      <h1 align="center">༺ 𝑮𝒊𝒐𝒉'𝒔 𝑲𝒊𝒏𝒈𝒅𝒐𝒎 ༻</h1>
+      <h3 align="center">Olá, eu sou a Giovanna! ♱</h3>
+      <p align="center">
+        Estudante de Ciência da Computação<br>
+        Desenvolvimento Web • Acessibilidade Digital • Tecnologia
+      </p>
+      <p align="center">
+        <a href="https://github.com/gioribeirro11">
+          <img src="https://img.shields.io/badge/GitHub-gioribeirro11-242424?style=for-the-badge&logo=github&logoColor=white" alt="Meu GitHub">
+        </a>
+        <img src="https://img.shields.io/badge/Localização-Brasil-777777?style=for-the-badge" alt="Brasil">
+      </p>
+    </td>
+    <td width="32%" align="center" valign="middle">
+      <img src="./assets/decor/knight.png" width="100%" alt="Cavaleira medieval prateada">
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  Estudante de Ciência da Computação • Desenvolvimento web • Acessibilidade digital
+  <i>“Entre ideias, códigos e descobertas, construindo meu próprio caminho.”</i>
 </p>
 
 <p align="center">
-  <a href="https://github.com/gioribeirro11">
-    <img src="https://img.shields.io/badge/GitHub-gioribeirro11-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <img src="https://img.shields.io/badge/Localização-Brasil-009739?style=for-the-badge" alt="Brasil">
+  <img src="./assets/decor/sword.png" width="100%" alt="Espada medieval ornamental">
 </p>
 
-## Tecnologias
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg">
-  
+## ♜ Sobre mim
+
+Sou estudante de Ciência da Computação e estou construindo minha trajetória na área de tecnologia. Tenho interesse em desenvolvimento de software, criação de aplicações, banco de dados e acessibilidade digital.
+
+Gosto de aprender na prática, explorar ferramentas diferentes e transformar conhecimentos em projetos que unam funcionalidade, organização e uma boa experiência para quem utiliza.
+
+**Meus principais interesses:**
+- Desenvolvimento de aplicações web.
+- Modelagem e gerenciamento de banco de dados.
+- Desenvolvimento de interfaces e experiência do usuário.
+- Acessibilidade digital.
+- Automação, testes e qualidade de software.
+
+<p align="center">
+  <img src="./assets/decor/unicorn.webp" width="35%" alt="Unicórnio ornamental prateado">
+</p>
+
+---
+
+## ⚔ Tecnologias e ferramentas
+
+<p align="center">
+  <i>Ferramentas e linguagens que fazem parte da minha jornada.</i>
+</p>
+
+<div align="center">
+  <img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="C++">
+  <img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript">
+  <img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML">
+  <img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS">
+  <img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap">
+  <img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL">
+  <img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" alt="Arduino">
+  <img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git">
+  <img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python">
+  <img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg" alt="Octave">
+  <img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java">
+  <img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="Figma">
+  <img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" alt="Django">
+  <img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" alt="Flutter">
+  <img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg" alt="Dart">
 </div>
 
-<!--<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+<p align="center">
+  <img src="./assets/decor/gauntlet.webp" width="105" alt="Manopla medieval prateada">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/decor/goblet.png" width="85" alt="Cálice ornamental prateado">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/decor/shield.webp" width="105" alt="Escudo medieval prateado">
 </p>
--->
-## Projetos em destaque
 
-### [Engaja](https://github.com/gioribeirro11/Engaja)
+---
+
+## ♜ Projetos em destaque
+
+Projetos acadêmicos e pessoais desenvolvidos durante minha trajetória de aprendizado. Clique nos títulos para acessar os repositórios.
+
+### 01. [Engaja](https://github.com/gioribeirro11/Engaja)
+
 Aplicação para gestão de eventos educacionais, inscrições, presenças e relatórios de engajamento. Desenvolvida com Laravel e Bootstrap.
 
-<!-- CAPTURA PNG/JPG:
-     Coloque uma imagem em assets/engaja.png e remova os comentários das linhas abaixo.
--->
-<!--
-<p align="center">
-  <img src="./assets/engaja.png" alt="Captura de tela do projeto Engaja" width="80%">
-</p>
--->
+**[↗ Abrir projeto no GitHub](https://github.com/gioribeirro11/Engaja)**
 
-### [Sistema de Agendamento de Consultas](https://github.com/gioribeirro11/Sistema-de-Agendamento-de-Clinica-Geral)
+### 02. [Sistema de Agendamento de Consultas](https://github.com/gioribeirro11/Sistema-de-Agendamento-de-Clinica-Geral)
+
 Aplicação desktop em Python com Tkinter para agendar, consultar e cancelar consultas. Os dados são armazenados em um arquivo JSON.
 
-<!-- CAPTURA PNG/JPG:
-     Coloque uma imagem em assets/agendamento.png e remova os comentários das linhas abaixo.
--->
-<!--
-<p align="center">
-  <img src="./assets/agendamento.png" alt="Captura do sistema de agendamento" width="80%">
-</p>
--->
+**[↗ Abrir projeto no GitHub](https://github.com/gioribeirro11/Sistema-de-Agendamento-de-Clinica-Geral)**
 
-### [Street Feet](https://github.com/gioribeirro11/Street-Feet)
+### 03. [Street Feet](https://github.com/gioribeirro11/Street-Feet)
+
 Protótipo acadêmico de loja virtual de tênis, com páginas em HTML e CSS e uma implementação inicial de cadastro e autenticação com PHP e MySQL.
 
-<!-- CAPTURA PNG/JPG:
-     Coloque uma imagem em assets/street-feet.png e remova os comentários das linhas abaixo.
--->
-<!--
+**[↗ Abrir projeto no GitHub](https://github.com/gioribeirro11/Street-Feet)**
+
 <p align="center">
-  <img src="./assets/street-feet.png" alt="Captura do projeto Street Feet" width="80%">
+  <img src="./assets/decor/medieval-detail.png" width="65%" alt="Detalhe ornamental medieval prateado">
 </p>
--->
 
-<!-- ## Demonstração em GIF
+---
 
-<!-- GIF:
-     Coloque sua demonstração animada em assets/demo.gif e remova os comentários das linhas abaixo.
--->
-<!--
-<p align="center">
-  <img src="./assets/demo.gif" alt="Demonstração de um projeto" width="80%">
-</p>
--->
-
-## Estatísticas do GitHub
+## ♜ Estatísticas do GitHub
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=gioribeirro11&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=gioribeirro11&show_icons=true&theme=graywhite&hide_border=true&locale=pt-br"
     height="165"
     alt="Estatísticas do GitHub"
   >
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioribeirro11&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioribeirro11&layout=compact&theme=graywhite&hide_border=true&locale=pt-br"
     height="165"
     alt="Linguagens mais usadas"
   >
 </p>
 
-<!-- Pacman -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gioribeirro11/gioribeirro11/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gioribeirro11/gioribeirro11/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gioribeirro11/gioribeirro11/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=gioribeirro11&theme=default&hide_border=true"
+    height="165"
+    alt="Sequência de contribuições"
+  >
+</p>
 
-<!--
-<picture>
-     <source medio="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gioribeirro11/gioribeirro11/output/github-contribution-grid-snake-dark.svg">
-     <source medio="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gioribeirro11/gioribeirro11/output/github-contribution-grid-snake.svg">
-     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gioribeirro11/gioribeirro11/output/github-contribution-grid-snake.svg">
-</picture>
-<br><br>
--->
+---
 
-
-<!--## Contato
-- GitHub: [@gioribeirro11](https://github.com/gioribeirro11)
- Opcional: adicione seu LinkedIn ou e-mail abaixo.
-- LinkedIn: [seu perfil](https://www.linkedin.com/in/seu-usuario/)
-- E-mail: [seu-email](mailto:seu-email)
--->
-
+## ♜ Minha jornada no GitHub
 
 <p align="center">
-  <img src="assets.png" alt="Banner de Giovanna Ribeiro" width="20%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gioribeirro11/gioribeirro11/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gioribeirro11/gioribeirro11/output/pacman-contribution-graph.svg">
+    <img alt="Gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/gioribeirro11/gioribeirro11/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="./assets/decor/sword.png" width="100%" alt="Espada medieval ornamental">
+</p>
+
+<h3 align="center">༺ Obrigada pela visita! ༻</h3>
+
+<p align="center">
+  <i>Ad astra per aspera.</i><br>
+  <sub>Às estrelas através das dificuldades.</sub>
+</p>
+
+<p align="center">
+  <img src="./assets/decor/lace-bottom.png" width="100%" alt="Renda ornamental prateada">
 </p>
